@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MApp</string>
+    <string name="app_subtitle">Uygulamalarını seç ve aç</string>
+    <string name="open_app">Üzerinde Aç</string>
+
+</resources>
